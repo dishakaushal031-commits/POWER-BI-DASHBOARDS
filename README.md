@@ -18,6 +18,9 @@ This Power BI dashboard provides interactive data analysis and visualization to 
 
 ## Files
 - DISHA.pbix : Power BI Dashboard file
+## PDF Report
+
+[View PDF Report](DISHA.pdf)
 
 ## Author
 Disha Kaushal
